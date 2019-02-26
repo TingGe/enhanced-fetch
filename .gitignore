@@ -5,14 +5,15 @@
 
 # production
 /build
-/dist
 
 # misc
 .idea/
 .vscode/
+.rpt2_cache/
 .happypack
 .DS_Store
 
+report.**.json*
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
